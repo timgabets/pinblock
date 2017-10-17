@@ -14,5 +14,3 @@ pinblock.encode_to_atm_format('0123456789ABCDEF')
 > '0123456789:;<=>?'
 
 ```
-
-
