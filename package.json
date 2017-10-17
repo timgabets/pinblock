@@ -1,0 +1,28 @@
+{
+  "name": "pinblock",
+  "version": "0.1.0",
+  "description": "ATM PIN Block Service",
+  "main": "states.js",
+  "scripts": {
+    "test": "istanbul cover jasmine"
+  },
+  "repository": "https://github.com/timgabets/pinblock",
+  "keywords": [
+    "ATM",
+    "PIN",
+    "pinblock"
+  ],
+  "author": {
+    "name": "Tim Gabets",
+    "email": "tim@gabets.ru",
+    "url": "http://gabets.ru/"
+  },
+  "license": "LGPL-2.1",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
+    "atm-state-levels": "^1.0.6"
+  }
+}
